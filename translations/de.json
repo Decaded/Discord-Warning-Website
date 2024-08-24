@@ -1,6 +1,6 @@
 {
   "headline": "Vorsicht vor verdächtigen Links!",
-  "warningMessage": "Hey, halt mal kurz! Du hast gerade auf einen Link geklickt, der riskant sein könnte. Diesmal bist du in Sicherheit – aber beim nächsten Mal hast du vielleicht nicht so viel Glück. Betrüger versuchen, dich zu täuschen, und ein falscher Klick könnte dich den Zugriff auf dein Konto kosten.",
+  "warningMessage": "Hey, warte mal kurz! Du hast gerade auf einen Link geklickt, der riskant sein könnte. Diesmal bist du in Sicherheit – aber beim nächsten Mal hast du vielleicht nicht so viel Glück. Betrüger versuchen, dich zu täuschen, und ein falscher Klick könnte dich den Zugriff auf dein Konto kosten.",
   "spotSuspicious": "So erkennst du einen verdächtigen Link:",
   "suspiciousList": [
     {

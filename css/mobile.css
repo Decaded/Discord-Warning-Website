@@ -1,0 +1,22 @@
+@media (max-width: 600px) {
+	.container {
+		margin: 10px;
+		padding: 15px;
+		max-width: 100%;
+	}
+
+	h1,
+	h2 {
+		font-size: 1.5em;
+	}
+
+	p,
+	li {
+		font-size: 1em;
+	}
+
+	.theme-toggle {
+		padding: 8px 12px;
+		font-size: 0.9em;
+	}
+}

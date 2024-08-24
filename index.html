@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+		<title>Heads Up: Stay Safe Online!</title>
+		<link
+			rel="stylesheet"
+			href="css/styles.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="css/mobile.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+		/>
+	</head>
+	<body>
+		<div id="particles-js"></div>
+		<div class="top-bar">
+			<button
+				class="theme-toggle"
+				id="theme-toggle"
+			>
+				Switch to Dark Mode
+			</button>
+			<select
+				id="language-select"
+				class="language-select"
+			>
+				<option value="en">English</option>
+				<option value="pl">Polski</option>
+				<option value="de">Deutsch</option>
+			</select>
+		</div>
+		<div class="container">
+			<h1 id="headline"></h1>
+			<p id="warning-message"></p>
+			<h2 id="spot-suspicious"></h2>
+			<ul id="suspicious-list"></ul>
+			<h2 id="after-click"></h2>
+			<ul id="after-click-list"></ul>
+			<p id="closing-message"></p>
+			<p id="discord-safety">
+				<a
+					href="https://discord.com/safety"
+					target="_blank"
+					>Discord's Safety Center</a
+				>
+			</p>
+			<img src="/images/sus.png" />
+		</div>
+		<footer>
+			<p>
+				<b>Disclaimer:</b> This site is independently created and not connected to Discord. It aims to raise awareness about online safety and the risks of clicking on unknown
+				links.
+			</p>
+			<a
+				href="https://github.com/your-repo"
+				target="_blank"
+				><i class="fab fa-github"></i> GitHub Repo</a
+			>
+			<a
+				href="https://decaded.dev"
+				target="_blank"
+				><i class="fas fa-globe"></i> Site &copy; Decaded</a
+			>
+		</footer>
+		<script src="js/theme.js"></script>
+		<script src="js/language.js"></script>
+		<script src="js/content.js"></script>
+		<script src="js/background.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+	</body>
+</html>

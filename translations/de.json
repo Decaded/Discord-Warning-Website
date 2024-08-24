@@ -1,0 +1,47 @@
+{
+  "headline": "Vorsicht vor verdächtigen Links!",
+  "warningMessage": "Hey, halt mal kurz! Du hast gerade auf einen Link geklickt, der riskant sein könnte. Diesmal bist du in Sicherheit – aber beim nächsten Mal hast du vielleicht nicht so viel Glück. Betrüger versuchen, dich zu täuschen, und ein falscher Klick könnte dich den Zugriff auf dein Konto kosten.",
+  "spotSuspicious": "So erkennst du einen verdächtigen Link:",
+  "suspiciousList": [
+    {
+      "title": "Zu Gut, um Wahr zu Sein",
+      "description": "Angebote, die zu perfekt klingen – wie kostenlose Sachen – könnten nicht echt sein."
+    },
+    {
+      "title": "Eile",
+      "description": "Wenn jemand sagt, dass du schnell handeln musst, nimm dir einen Moment zum Nachdenken."
+    },
+    {
+      "title": "Seltsame URLs",
+      "description": "Überprüfe den Link genau – sieht er verdächtig aus oder hat er seltsame Zeichen?"
+    },
+    {
+      "title": "Neue Konten",
+      "description": "Sei vorsichtig mit Nachrichten von brandneuen oder nicht verifizierten Konten."
+    },
+    {
+      "title": "Über Links fahren",
+      "description": "Bevor du klickst, fahre mit der Maus über eingebettete Links in Discord, um zu sehen, wohin sie führen. Wenn du einen Link-Verkürzer (wie bit.ly oder tinyurl.com) siehst, sei besonders vorsichtig – es besteht eine große Wahrscheinlichkeit, dass er bösartig ist."
+    }
+  ],
+  "afterClick": "Was zu tun ist, wenn du auf den Link geklickt hast:",
+  "afterClickList": [
+    {
+      "title": "Aktualisiere dein Passwort",
+      "description": "Ändere dein Discord-Passwort und alle anderen, die du kürzlich verwendet hast."
+    },
+    {
+      "title": "Aktiviere 2FA",
+      "description": "Füge deinen Konten zusätzlichen Schutz hinzu, indem du die Zwei-Faktor-Authentifizierung aktivierst."
+    },
+    {
+      "title": "Überprüfe dein Gerät",
+      "description": "Führe einen schnellen Scan mit deiner Antivirensoftware durch."
+    },
+    {
+      "title": "Informiere einen Moderator",
+      "description": "Lass einen Community-Moderator wissen, was passiert ist - er kann helfen, dies an Discord zu melden."
+    }
+  ],
+  "closingMessage": "Bleib sicher und überlege zweimal, bevor du klickst!"
+}

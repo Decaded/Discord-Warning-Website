@@ -1,0 +1,47 @@
+{
+  "headline": "Uważaj na podejrzane linki!",
+  "warningMessage": "Hej, chwila! Właśnie kliknąłeś link, który może być ryzykowny. Tym razem masz szczęście - ale następnym razem możesz nie mieć tyle szczęścia. Oszuści próbują Cię oszukać, a jedno błędne kliknięcie może kosztować Cię dostęp do konta.",
+  "spotSuspicious": "Jak rozpoznać podejrzany link:",
+  "suspiciousList": [
+    {
+      "title": "Zbyt Dobre, aby Było Prawdziwe",
+      "description": "Oferty, które wydają się zbyt idealne - jak darmowe rzeczy - mogą nie być prawdziwe."
+    },
+    {
+      "title": "Pośpiech",
+      "description": "Jeśli ktoś mówi, że musisz działać szybko, zatrzymaj się i pomyśl."
+    },
+    {
+      "title": "Dziwne URL-e",
+      "description": "Sprawdź dokładnie link - czy wygląda podejrzanie lub zawiera dziwne znaki?"
+    },
+    {
+      "title": "Nowe Konta",
+      "description": "Bądź ostrożny z wiadomościami od zupełnie nowych lub niezweryfikowanych kont."
+    },
+    {
+      "title": "Najedź Kursorem na Link",
+      "description": "Przed kliknięciem najedź kursorem na wbudowany link na Discordzie, aby zobaczyć, dokąd prowadzi. Jeśli zobaczysz skrót linku (np. bit.ly lub tinyurl.com), bądź super ostrożny - istnieje duża szansa, że jest on złośliwy."
+    }
+  ],
+  "afterClick": "Co zrobić, jeśli kliknąłeś link:",
+  "afterClickList": [
+    {
+      "title": "Zaktualizuj Hasło",
+      "description": "Zmień hasło do Discorda oraz inne, których ostatnio używałeś."
+    },
+    {
+      "title": "Włącz 2FA",
+      "description": "Dodaj dodatkową ochronę do swoich kont, włączając dwuskładnikowe uwierzytelnianie."
+    },
+    {
+      "title": "Sprawdź Urządzenie",
+      "description": "Uruchom szybkie skanowanie za pomocą oprogramowania antywirusowego."
+    },
+    {
+      "title": "Poinformuj Moderatora",
+      "description": "Poinformuj moderatora społeczności, a on pomoże zgłosić to do Discorda."
+    }
+  ],
+  "closingMessage": "Bądź bezpieczny i zastanów się przed kliknięciem!"
+}

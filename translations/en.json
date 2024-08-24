@@ -1,0 +1,47 @@
+{
+  "headline": "Be Careful with Suspicious Links!",
+  "warningMessage": "Hey, hold up! You just clicked on a link that could be risky. This time, you're safe — but next time, you might not be so lucky. Scammers are out there trying to trick you, and one wrong click could cost you access to your account.",
+  "spotSuspicious": "Here’s How to Spot a Suspicious Link:",
+  "suspiciousList": [
+    {
+      "title": "Too Good to Be True",
+      "description": "Offers that sound too perfect — like free stuff — might not be real."
+    },
+    {
+      "title": "Rushing You",
+      "description": "If someone says you need to act fast, take a moment to think."
+    },
+    {
+      "title": "Strange URLs",
+      "description": "Double-check the link — does it look off or have weird characters?"
+    },
+    {
+      "title": "New Accounts",
+      "description": "Be cautious with messages from brand-new or unverified accounts."
+    },
+    {
+      "title": "Hover Over Links",
+      "description": "Before clicking, hover over embedded links in Discord to see where they lead. If you see a link shortener (like bit.ly or tinyurl.com), be super cautious — there’s a good chance it could be malicious."
+    }
+  ],
+  "afterClick": "What to Do If You Clicked the Link:",
+  "afterClickList": [
+    {
+      "title": "Update Your Password",
+      "description": "Change your Discord password and any others you used recently."
+    },
+    {
+      "title": "Turn on 2FA",
+      "description": "Add extra protection to your accounts with two-factor authentication."
+    },
+    {
+      "title": "Check Your Device",
+      "description": "Run a quick scan with your antivirus software."
+    },
+    {
+      "title": "Tell a Mod",
+      "description": "Let a community moderator know, and they can help report it to Discord."
+    }
+  ],
+  "closingMessage": "Stay Safe and Think Before You Click!"
+}

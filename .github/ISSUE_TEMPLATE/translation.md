@@ -8,7 +8,7 @@ assignees: ''
 
 **Language** Specify the language you are contributing to or improving (e.g., Polish, German).
 
-**Translation File** Indicate which file(s) you are contributing to or updating (e.g., `locales/pl.json`).
+**Translation File** Indicate which file(s) you are contributing to or updating (e.g., `translations/pl.json`).
 
 **Translation Changes** Describe the changes you made to the translations. Include any improvements or corrections.
 

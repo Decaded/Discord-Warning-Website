@@ -4,46 +4,6 @@ This project was created as part of my train of thought "I wonder how many peopl
 
 It's intended to show people that clicking on weird links is a big no-no and should be avoided.
 
-## Setup and Installation
-
-### Prerequisites
-
-- A modern web browser (e.g., Chrome, Firefox, Safari)
-- Basic knowledge of HTML, CSS, and JavaScript
-
-### Local Development
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/secure-your-discord.git
-   ```
-
-2. **Navigate to the Project Directory:**
-
-   ```bash
-   cd secure-your-discord
-   ```
-
-3. **Open the Project:**
-
-   Open `index.html` in your web browser to view the project.
-
-## Usage
-
-- Visit the Website:
-
-  - Open SecureYourDiscord to access the educational content.
-
-- Interactive Features:
-
-  - Use the theme toggle button to switch between dark and light modes.
-  - Test the interactive simulations to understand common scam tactics.
-
-- Language Selection:
-
-  - Change the language via the dropdown menu to view content in English, Polish, or German.
-
 ## Languages
 
 Currently there are three translations:
